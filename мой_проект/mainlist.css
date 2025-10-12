@@ -8,13 +8,7 @@ body {
        border-radius: 50%;
        object-fit: cover;
 }
-.arrow-down {
-    width: 0;
-    height: 0;
-    border-left: 2px solid transparent;
-    border-right: 2px solid transparent;
-    border-top: 5px solid #000; /* Чёрный цвет стрелочки */
-}
+
 p {
 font-size: 20px;
 font-weight: bold;
@@ -23,3 +17,4 @@ h1 {
 font-size: 50px;
 color: black;
 }
+
