@@ -1,0 +1,19 @@
+body {
+    background-color: #a2c4c9;
+    text-align: center;
+}
+.img {
+       width: 300px;
+       height: 300px;
+       border-radius: 50%;
+       object-fit: cover;
+}
+
+p {
+font-size: 20px;
+font-weight: bold;
+}
+h1 {
+font-size: 50px;
+color: black;
+}
