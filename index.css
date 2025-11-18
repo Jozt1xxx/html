@@ -17,3 +17,6 @@ h1 {
 font-size: 50px;
 color: black;
 }
+#form_text{
+display: none
+}
