@@ -19,5 +19,7 @@ function checkForm() {
         alert('Введите правильный email!\nПример: andreyaleksandrovich@mail.ru');
         return;
     }
-    alert('Спасибо! Данные отправлены.');
-}
+    //alert('Привет '+ name + ' спасибо за ваш комментарий!');
+    let form = document.getElementById('form_text');
+    form.style.display = "block";
+    form.innerHTML = 'Привет '+ name + ' спасибо за ваш комментарий!'
